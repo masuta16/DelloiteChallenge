@@ -12,6 +12,8 @@ O gerenciamento dos dados deve ser feito com uma API REST conectada ao banco de
 dados relacional.
 
 ###REQUISITOS MÍNIMOS BACK-END
+
+
 1. Todos os códigos deverão estar em um repositório no Github com README.md
 descrevendo tecnologias utilizadas no projeto.
 2. API:
@@ -23,6 +25,8 @@ a. Utilizar banco de dados relacional
 b. Adicionar dados para teste
 
 ###OPCIONAIS BACK-END
+
+
 5. Autenticação de administrador para gerenciamento do conteúdo
 6. Documentação da API
 7. Testes automatizados
