@@ -27,7 +27,7 @@ c. CRUD (Criar, ler, atualizar e deletar) de Integrantes da Equipe
 a. Utilizar banco de dados relacional
 b. Adicionar dados para teste
 ```
-# OPCIONAIS BACK-END
+# OPCIONAIS BACK-END:
 
 
 - Autenticação de administrador para gerenciamento do conteúdo
@@ -35,14 +35,14 @@ b. Adicionar dados para teste
 - Testes automatizados
 - Deploy da aplicação
 
-# Minha solução
+# Minha solução:
 
 Foi criada uma imagem docker para criar o CRUD
 Para executar basta digitar: 
 `docker-compose up --build`
-Dentro do diretorio com a imagem Docker
-O banco de dados usado foi o sqlite3
-É possivel adicionar, deletar e modificar os arquivos como administrador
+ dentro do diretorio com a imagem Docker.
+O banco de dados usado foi o sqlite3.
+É possivel adicionar, deletar e modificar os arquivos como administrador.
 
 
 ![alt text](https://raw.githubusercontent.com/masuta16/DelloiteChallenge/main/images/Screenshot%20from%202022-02-06%2014-39-09.png)
