@@ -46,5 +46,8 @@ O banco de dados usado foi o sqlite3.
 Para acessar o login de admin digite: 
 https://127.0.0.1:8080
 
+Para criar o login de admin digite:
+`docker-compose exec web python3 manage.py createsuperuser`
+
 ![alt text](https://raw.githubusercontent.com/masuta16/DelloiteChallenge/main/images/Screenshot%20from%202022-02-06%2014-39-09.png)
 
