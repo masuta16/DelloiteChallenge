@@ -43,7 +43,8 @@ Para executar basta digitar:
  dentro do diretorio com a imagem Docker.
 O banco de dados usado foi o sqlite3.
 É possivel adicionar, deletar e modificar os arquivos como administrador.
-
+Para acessar o login de admin digite: 
+https://120.0.0.1:8080
 
 ![alt text](https://raw.githubusercontent.com/masuta16/DelloiteChallenge/main/images/Screenshot%20from%202022-02-06%2014-39-09.png)
 
