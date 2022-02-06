@@ -43,5 +43,5 @@ Para executar basta digitar:
 Dentro do diretorio com a imagem Docker
 O banco de dados usado foi o sqlite3
 É possivel adicionar, deletar e modificar os arquivos como administrador
-![alt text](https://raw.githubusercontent.com/masuta16/RaizenChallenge/main/images/Screenshot%20from%202022-01-30%2002-48-47.png)
+![alt text](https://raw.githubusercontent.com/masuta16/DelloiteChallenge/main/images/Screenshot%20from%202022-02-06%2014-39-09.png)
 
