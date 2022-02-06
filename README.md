@@ -34,3 +34,14 @@ b. Adicionar dados para teste
 - Documentação da API
 - Testes automatizados
 - Deploy da aplicação
+
+#Minha solução
+
+Foi criada uma imagem docker para criar o CRUD
+Para executar basta digitar: 
+`docker-compose up --build`
+Dentro do diretorio com a imagem Docker
+O banco de dados usado foi o sqlite3
+É possivel adicionar, deletar e modificar os arquivos como administrador
+![alt text](https://raw.githubusercontent.com/masuta16/RaizenChallenge/main/images/Screenshot%20from%202022-01-30%2002-48-47.png)
+
