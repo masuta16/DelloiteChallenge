@@ -37,7 +37,7 @@ b. Adicionar dados para teste
 
 # Minha solução:
 
-Foi criada uma imagem docker para criar o CRUD
+Foi criada uma imagem docker para criar o CRUD e foi utilizado o framework Django.
 Para executar basta digitar: 
 `docker-compose up --build`
  dentro do diretorio com a imagem Docker.
