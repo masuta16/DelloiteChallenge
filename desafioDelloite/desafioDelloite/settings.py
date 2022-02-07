@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     "post.apps.PostConfig",
     "servico.apps.ServicoConfig",
     "integrante.apps.IntegranteConfig",
+    "rest_framework",
     # 'drf_yasg',
 ]
 
