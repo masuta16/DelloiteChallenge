@@ -44,7 +44,7 @@ Para executar basta digitar:
 O banco de dados usado foi o sqlite3.
 É possivel adicionar, deletar e modificar os arquivos como administrador.
 Para acessar o login de admin digite: 
-https://127.0.0.1:8080/admin
+https://127.0.0.1:8000/admin
 
 Para criar o login de admin digite:
 `docker-compose exec web python3 manage.py createsuperuser`
