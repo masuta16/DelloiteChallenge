@@ -48,7 +48,7 @@ https://127.0.0.1:8080/admin
 
 Para criar o login de admin digite:
 `docker-compose exec web python3 manage.py createsuperuser`
-# Link para cada api:
+# Link para cada API:
 - Servicos
  `http://127.0.0.1:8000/servico`
 - Posts
